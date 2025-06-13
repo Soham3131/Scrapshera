@@ -50,7 +50,7 @@ export const scrapData = [
   { item: "Clothes", price: "₹2/kg", note: "Accepted only when given with other scrap items (We don't accept undergarments)", icon: "clothes" },
   { item: "Glass Bottles", price: "₹2/kg", note: "Accepted only when given with other scrap items", icon: "glassBottle" },
   { item: "Office Paper", price: "₹14/kg", icon: "officePaper" },
-  { item: "Copies/Books", price: "₹12/kg", icon: "copiesBooks" },
+  { item: "Books", price: "₹12/kg", icon: "copiesBooks" },
   { item: "Cardboard", price: "₹8/kg", note: "Call +91-8595358613 for bulk", icon: "cardboard" },
   { item: "Plastic Bottles", price: "₹8/kg", icon: "plasticBottle" },
   { item: "Iron", price: "₹26/kg", note: "Call +91-8595358613 for bulk", icon: "iron" },

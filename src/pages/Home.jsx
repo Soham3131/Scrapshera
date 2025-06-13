@@ -8,7 +8,7 @@ import { useState } from "react";
 
 const getIconComponent = (iconName) => {
   switch (iconName) {
-    case 'newspaper': return '�';
+    case 'newspaper': return '📰';
     case 'clothes': return '👕';
     case 'glassBottle': return '🍾';
     case 'officePaper': return '📄';

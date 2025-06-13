@@ -1,3 +1,4 @@
+import logo from "../assets/logo.png"
 export default function ScrapItem({ item }) {
   return (
     <div className="bg-white shadow-md p-4 rounded-lg flex items-center space-x-4">
